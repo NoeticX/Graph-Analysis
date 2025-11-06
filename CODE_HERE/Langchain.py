@@ -46,7 +46,7 @@ if "messages" not in st.session_state:
 
 
 # ================================
-# 3. 🎨 UI Components & Layout
+# UI Components & Layout
 # ================================
 
 def setup_sidebar():
